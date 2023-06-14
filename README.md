@@ -1,5 +1,4 @@
-# FirmBench: A Benchmark Suite for Binary Analysis (Beta version)
-For the official version visit [FirmBench: A Benchmark Suite for Binary Analysis](https://github.com/aseec-lab/FirmBench)
+# FirmBench: A Benchmark Suite for Binary Analysis
 This work is heavily inspired from following open source datasets and research papers
 * [UCSB-SecLab Monolithic Firmware Collection](https://github.com/ucsb-seclab/monolithic-firmware-collection)
 * [FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities From Bare-Metal Firmware](http://web.cse.ohio-state.edu/~wen.423/papers/ccs20_FirmXRay)
