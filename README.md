@@ -1,2 +1,2 @@
-# FirmBench
-FirmBench: A Benchmark Suite for Binary Analysis
+# FirmBench: A Benchmark Suite for Binary Analysis
+
