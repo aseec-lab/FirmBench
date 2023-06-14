@@ -1,0 +1,16 @@
+# Security Benchmark Details
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CVE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Vulnerability Details |	SDK Version | Architecture | MCU | MCU Details | Sample used |
+|-----|-----------------------|-------------|--------------|-----|-------------|-------------|
+| CVE-2020-10064 | https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2020-10064 | Zephyr 2.2.0 | ARM | SAM4E Xplained Pro | https://docs.zephyrproject.org/2.2.0/boards/arm/sam4e_xpro/doc/index.html | net/sockets/echo_server |
+| CVE-2020-10065 | https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2020-10065 | Zephyr 2.2.0 | ARM | ST Disco L475 IOT01 | https://docs.zephyrproject.org/2.2.0/boards/arm/disco_l475_iot1/doc/index.html | bluetooth/peripheral_dis |
+| CVE-2020-10066 | https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2020-10066 | Zephyr 2.2.0 | ARM | ST Disco L475 IOT01 | https://docs.zephyrproject.org/2.2.0/boards/arm/disco_l475_iot1/doc/index.html | bluetooth/peripheral_dis |
+| CVE-2021-3319 | https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2021-3319	| Zephyr 2.4.0 | ARM | SAM4S Xplained | https://docs.zephyrproject.org/2.4.0/boards/arm/sam4s_xplained/doc/index.html | net/sockets/echo_server |
+| CVE-2021-3320	| https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2021-3320	| Zephyr 2.4.0 | ARM | SAM4S Xplained | https://docs.zephyrproject.org/2.4.0/boards/arm/sam4s_xplained/doc/index.html | net/sockets/echo_server |
+| CVE-2021-3321 | https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2021-3321 | Zephyr 2.4.0 | ARM | SAM4S Xplained | https://docs.zephyrproject.org/2.4.0/boards/arm/sam4s_xplained/doc/index.html | net/sockets/echo_server |
+| CVE-2021-3322 | https://nvd.nist.gov/vuln/detail/CVE-2021-3322 | Zephyr 2.4.0 | ARM | SAM4S Xplained | https://docs.zephyrproject.org/2.4.0/boards/arm/sam4s_xplained/doc/index.html | net/sockets/echo_server |
+| CVE-2021-3323 | https://docs.zephyrproject.org/2.5.0/security/vulnerabilities.html?highlight=vulne#cve-2021-3323 | Zephyr 2.4.0 | ARM | SAM4S Xplained | https://docs.zephyrproject.org/2.4.0/boards/arm/sam4s_xplained/doc/index.html | net/sockets/echo_server |
+| CVE-2021-3329 | https://nvd.nist.gov/vuln/detail/CVE-2021-3329 | Zephyr 2.4.0 | ARM | ST Disco L475 IOT01 | https://docs.zephyrproject.org/latest/boards/arm/disco_l475_iot1/doc/index.html | bluetooth/peripheral_dis |
+| CVE-2021-3330 | https://nvd.nist.gov/vuln/detail/CVE-2021-3330 | Zephyr 2.4.0 | ARM | SAM4S Xplained | https://docs.zephyrproject.org/2.4.0/boards/arm/sam4s_xplained/doc/index.html | net/sockets/echo_server |
+| CVE-2019-9183 | https://cve.report/CVE-2019-9183 | Contiki-ng v4.4 | ARM | TI cc2538 development kit | https://docs.contiki-ng.org/en/develop/doc/platforms/cc2538dk.html | hello-world with bug injected |
+| CVE-2020-12140 | https://cve.report/CVE-2020-12140 | Contiki-ng v4.4 | ARM | TI cc26x0 and cc13x0 platforms | https://docs.contiki-ng.org/en/develop/doc/platforms/srf06-cc26xx.html | hello-world with bug injected |
+| CVE-2020-12141 | https://cve.report/CVE-2020-12141 | Contiki-ng v4.4 | ARM | TI cc2538 development kit | https://docs.contiki-ng.org/en/develop/doc/platforms/cc2538dk.html| snmp-server with bug injected |
